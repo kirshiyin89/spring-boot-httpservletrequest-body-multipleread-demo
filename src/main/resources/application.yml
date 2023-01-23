@@ -1,0 +1,8 @@
+spring:
+  mvc:
+    hiddenmethod:
+      filter:
+        enabled: false
+server:
+  port: 8080
+
